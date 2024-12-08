@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/jeffery/logging/pkg/config"
-	"github.com/jeffery/logging/pkg/logger"
+	"github.com/jeffery/logger/pkg/config"
+	"github.com/jeffery/logger/pkg/logger"
 	"github.com/sirupsen/logrus"
 	"os"
 )

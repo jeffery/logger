@@ -1,4 +1,4 @@
-module github.com/jeffery/logging
+module github.com/jeffery/logger
 
 go 1.21.0
 

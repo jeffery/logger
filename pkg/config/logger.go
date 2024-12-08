@@ -2,7 +2,7 @@ package config
 
 import (
 	"fmt"
-	"github.com/jeffery/logging/pkg/logger"
+	"github.com/jeffery/logger/pkg/logger"
 	"github.com/sirupsen/logrus"
 	"os"
 )

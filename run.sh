@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
 go mod tidy
+go mod verify
 
 echo "Running in Trace level"
 ENV=dev SERVICE=exchange VERSION=1.0.0 LOG_LEVEL=trace go run cmd/main.go

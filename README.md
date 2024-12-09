@@ -20,8 +20,13 @@ logger/
 └── run.sh               # Script to run the application
 ```
 
+## Set up the library for your project
 
-## Running the Application
+```bash
+go get github.com/jeffery/logger@v0.1.0 
+```
+
+## Running the example Application
 
 ```bash
 ./run.sh
